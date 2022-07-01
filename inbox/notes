@@ -1,0 +1,23 @@
+---------------------------------------
+FOR UPDATING SOLC COMPILER
+npm uninstall -g solc
+
+npm uninstall solc
+
+rm -r node_modules
+
+rm package-lock.json
+
+npm install
+
+npm install solc@0.4.17
+
+installing web3 ganache 
+npm install --save mocha ganache-cli web3
+---------------------------------------
+---------------------------------------
+npm version upgrade steps
+nvm list-remote
+nvm install v16.15.1
+
+---------------------------------------
