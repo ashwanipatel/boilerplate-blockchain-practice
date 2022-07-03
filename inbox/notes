@@ -25,3 +25,12 @@ nvm install v16.15.1
 running mocha
 npm run test
 ---------------------------------------
+
+---------------------------------------
+installing infura and truffle
+npm install @truffle/hdwallet-provider
+
+---------------------------------------
+Deploying Command to Rinkeby Network
+node deploy.js
+---------------------------------------
